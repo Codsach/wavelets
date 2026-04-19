@@ -8,7 +8,7 @@ from utils import extract_dwt_features, extract_wavelet_packet_features
 
 st.set_page_config(page_title="Wavelet Face Classifier", layout="wide")
 
-st.title("🧠 Human Face Classification using 2D Wavelets & Wavelet Packets")
+st.title("Human Face Classification using 2D Wavelets & Wavelet Packets")
 
 # ==========================
 # Check if model exists
